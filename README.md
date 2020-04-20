@@ -5,8 +5,10 @@ Integrantes de grupo:
 - Juan Martin Vicente: Ingeniero Industrial, 42 años, estudiando en DH porque siempre le gusto el tema y busca nuevas alternativas laborales.
 
 - Gonzalo Sabella:
+
 - Agustin Casas:
-- Stefano  Bras:
+
+- Stefano  Brascetta: Estudiante de Lic. Creacion Sonora, 23 años, con DH busco formarme para encontrar oportunidades laborales y tener la posibilidad de crear proyectos personales de desarrollo web
 
 
 LISTADO DE SITIOS Y PORQUE FUERON ELEGIDOS
