@@ -11,6 +11,6 @@ Integrantes de grupo:
 
 LISTADO DE SITIOS Y PORQUE FUERON ELEGIDOS
 
-1- www.newgarden.com.ar Este fue elegido porque es lo que apunta nuestro website como funcionamiento
+1- www.ghirardelli.com Nos parecio que tiene buena funcionalidad
 2- www.vitalcer.com Este fue elegido porque es la empresa justamente a la que vamos a apuntar y nos da mucho de la parte visual
-3- www.dropbox.com Esta fue elegida ya que tiene una interfaz muy amigable
+3- www.mercadlibre.com.mx/supermercado Elegida porque nos parecio estaba bien orgnizada
