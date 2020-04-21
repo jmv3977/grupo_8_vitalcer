@@ -7,7 +7,10 @@ Integrantes de grupo:
 - Gonzalo Sabella: Lic. en Publicidad, 43 años, ingrese a DH buscando entender un nuevo mundo para poder desarrollar un nuevo emprendimiento.
 
 - Agustin Casas:
-- Stefano  Bras:
+
+- Stefano  Bras:  Estudiante de Lic. Creacion Sonora, 23 años, con DH busco formarme para encontrar oportunidades laborales y tener la posibilidad de crear proyectos personales de desarrollo web
+
+
 
 
 LISTADO DE SITIOS Y PORQUE FUERON ELEGIDOS
