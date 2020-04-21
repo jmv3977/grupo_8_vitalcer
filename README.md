@@ -4,7 +4,8 @@ Integrantes de grupo:
 
 - Juan Martin Vicente: Ingeniero Industrial, 42 años, estudiando en DH porque siempre le gusto el tema y busca nuevas alternativas laborales.
 
-- Gonzalo Sabella:
+- Gonzalo Sabella: Lic. en Publicidad, 43 años, ingrese a DH buscando entender un nuevo mundo para poder desarrollar un nuevo emprendimiento.
+
 - Agustin Casas:
 - Stefano  Bras:
 
