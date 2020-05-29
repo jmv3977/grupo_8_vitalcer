@@ -1,0 +1,60 @@
+#basket {
+    color: rgb(97,181,36);
+  }
+  
+  #basket:hover {
+    color: green;
+  }
+  
+  .logo {
+    width:250px;
+  }
+  
+  .nav-link:hover {
+    background-color: rgb(97,181,36);
+    color: white;
+  }
+  
+  .dropdown-item:hover {
+    background-color: rgb(97,181,36);
+    color: white;
+  }
+  
+  #buscarbutton {
+    border: solid 2px rgb(97,181,36);
+    color: rgb(97,181,36);
+  }
+  
+  #buscarbutton:hover {
+    background-color: rgb(97,181,36);
+    color: white;
+  
+  }
+  
+  #navbuttons:hover {
+    color: white;
+  }
+  
+  #navbuttons {
+    color:black;
+  }
+  
+  
+  @media (max-width: 575.98px) {
+  #basket {
+    font-size: 30px;
+    position: relative;
+    left:15px;
+    
+    
+  }
+  }
+  
+  @media (min-width: 992px) {
+    #basket {
+      font-size: 30px;
+      position: relative;
+      left: 490px;
+  }
+  
+    }
