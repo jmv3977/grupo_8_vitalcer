@@ -1,0 +1,22 @@
+footer {
+    background-color: rgb(97,181,36);
+    color: white !important;
+    background-image: url(./img/footerbackground.jpg);
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    
+
+   }
+
+#socialMediaLogos {
+    text-align: center;
+    
+}
+
+a {
+    color: white;
+}
+
+
+
